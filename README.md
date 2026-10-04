@@ -211,4 +211,4 @@ Dundjinni is offered as a full free version with all features and updates includ
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 21:54:22 UTC
+**Last updated:** 2026-10-04 00:14:50 UTC
